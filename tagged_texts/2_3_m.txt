@@ -1,1 +1,127 @@
+Constituency Tree of the Sentence 77:
+[77] (ROOT (VROOT (S (ADV Hier) (VERB lag) (NP (DET ihr) (ADJ wahres) (NOUN Talent)))))
+
+Constituency Tree of the Sentence 78:
+[78] (ROOT (VROOT (S (PP (ADP Bei) (DET der) (NOUN Bestellung) (NP (DET der) (CNP (NOUN Lichterketten) (CCONJ und) (NOUN Wimpel)))) (AUX habe) (PRON ich) (VP (PRON es) (ADV vielleicht) (NP (DET ein) (ADV bisschen)) (VERB übertrieben))) (CS (S (VERB sagte) (PROPN Cat)) (CCONJ und) (S (VERB schürzte) (NP (DET die) (NOUN Hand))))))
+
+Constituency Tree of the Sentence 79:
+[79] (ROOT (VROOT (S (CCONJ Aber) (PRON ich) (VERB denke) (ADV trotzdem)) (S (SCONJ dass) (PRON wir) (VP (PP (ADP bei) (DET der) (NOUN Deko)) (PP (ADP in) (DET die) (NOUN Vollen)) (VERB gehen)) (AUX sollten))))
+
+Constituency Tree of the Sentence 80:
+[80] (ROOT (VROOT (CNP (PROPN Tannenbaum)) (PROPN Lametta) (NP (DET das) (ADJ ganze) (NOUN Programm))))
+
+Constituency Tree of the Sentence 81:
+[81] (ROOT (VROOT (S (NP (DET Die) (NOUN Schaufenster)) (AUX müssen) (VP (AP (ADV auch) (ADJ richtig) (ADJ festlich)) (VERB aussehen)))))
+
+Constituency Tree of the Sentence 82:
+[82] (ROOT (VROOT (S (ADV Sofort) (VERB meldete) (PRON sich) (PROPN Sadies) (NP (ADJ kreativer) (NOUN Talent)))))
+
+Constituency Tree of the Sentence 83:
+[83] (ROOT (VROOT (S (PRON Wir) (AUX könnten) (VP (NP (DET ein) (ADJ winterliches) (NOUN Miniaturdorf)) (VERB bauen)))))
+
+Constituency Tree of the Sentence 84:
+[84] (ROOT (VROOT (ADP Mit) (DET einem) (NOUN Weihnachtsmann) (PP (S (PRON der) (PP (ADP in) (DET dem) (NOUN Rentierschlitten)) (ADV darüber) (VERB fliegt))) (CCONJ und) (NP (AP (ADJ leuchtend) (ADJ gelben)) (NOUN Sternen) (NOUN Keksen) (PP (ADP an) (DET dem) (NOUN Nachthimmel)))))
+
+Constituency Tree of the Sentence 85:
+[85] (ROOT (VROOT (CS (S (PRON Das) (AUX würde) (VP (ADJ toll) (VERB aussehen)))) (S (VERB stimmte) (PROPN Cat) (PP (ADP mit) (ADJ glänzenden) (NOUN Augen)) (ADP zu))))
+
+Constituency Tree of the Sentence 86:
+[86] (ROOT (VROOT (S (NP (DET Die) (NOUN Häuser)) (AUX würde) (PRON ich) (VP (PP (ADP aus) (NOUN Lebkuchen)) (VERB machen)))))
+
+Constituency Tree of the Sentence 87:
+[87] (ROOT (VROOT (S (ADV Damit) (AUX könnten) (PRON wir) (CVP (VP (NP (DET unsere) (NOUN Talente)) (PP (ADP unter) (NOUN Beweis)) (VERB stellen)) (CCONJ und) (VP (ADV ausserdem) (ADV gleich) (NP (DET einen) (NOUN Haufen) (NP (ADJ weihnachtsbegeisterter) (NOUN Kunden))) (PP (ADP an) (NOUN Land)) (VERB ziehen))))))
+
+Constituency Tree of the Sentence 88:
+[88] (ROOT (VROOT (CS (S (PP (ADP In) (DET der) (NOUN Zwischenzeit)) (AUX könnte) (PRON ich) (VP (NP (DET die) (NOUN Schaufenster)) (VERB bemalen)))) (S (VERB schlug) (PROPN Sadie) (ADP vor)) (CCONJ und) (S (VERB betrachtete) (NP (DET die) (ADJ kahlen) (NOUN Glasscheiben)))))
+
+Constituency Tree of the Sentence 89:
+[89] (ROOT (VROOT (S (SCONJ Damit) (NP (DET die) (NOUN Leute)) (NP (DET eine) (NOUN Idee) (ADV davon)) (VERB bekommen)) (S (PRON was) (PRON wir) (ADV hier) (ADV bald) (DET alles) (VERB anbieten))))
+
+Constituency Tree of the Sentence 90:
+[90] (ROOT (VROOT (CS (S (PRON Sie) (VERB zog) (NP (DET ihr) (NOUN Skizzenbuch)) (PP (ADP aus) (DET der) (NOUN Handtasche))) (CCONJ und) (S (VERB begann) (VP (PP (ADV darauf)) (VERB herumzukritzeln)))) (S (SCONJ während) (PRON sich) (PROPN Cat) (ADV wieder) (NP (DET der) (NOUN Tabelle)) (PP (ADP auf) (DET ihrem) (NOUN Tablet)) (VERB widmete))))
+
+Constituency Tree of the Sentence 91:
+[91] (ROOT (VROOT (S (PROPN Sadie) (AUX war) (VP (AVP (ADV so)) (PP (ADP in) (DET ihre) (NOUN Zeichnung)) (VERB versunken))) (S (SCONJ dass) (PRON sie) (AVP (ADV gar) (PART nicht)) (VERB mitbekam)) (S (SCONJ als) (NP (DET die) (NOUN Glocke)) (PP (ADP über) (DET der) (NOUN Tür)) (VERB klingelte))))
+
+Constituency Tree of the Sentence 92:
+[92] (ROOT (VROOT (S (ADV Erst) (SCONJ als) (PRON sie) (NP (DET eine) (ADJ männliche) (NOUN Stimme)) (VERB hörte)) (S (VERB sah) (PRON sie) (ADP auf))))
+
+Constituency Tree of the Sentence 93:
+[93] (ROOT (VROOT (CNP (NOUN Hallo)) (NOUN Nachbarinnen)))
+
+Constituency Tree of the Sentence 94:
+[94] (ROOT (VROOT (S (NP (DET Der) (NOUN Mann)) (VERB beugte) (PRON sich) (PP (ADP durch) (DET den) (NOUN Spalt) (NP (DET der) (AP (ADJ halb) (ADJ geöffneten)) (NOUN Tür)))) (S (SCONJ als) (SCONJ ob) (PRON er) (PRON sich) (PART nicht) (VP (VERB entscheiden)) (AUX könnte)) (CS (S (SCONJ ob) (PRON er) (VERB reinkommen) (AUX sollte)) (CCONJ oder) (S (PART nicht)))))
+
+Constituency Tree of the Sentence 95:
+[95] (ROOT (VROOT (DET Das) (ADJ Erste) (NP (S (PRON was) (PROPN Sadie) (PP (ADP an) (PRON ihm)) (VERB auffiel))) (S (AUX waren) (CNP (NP (DET seine) (ADJ zerzausten) (ADJ dunklen) (NOUN Haare)))) (NP (DET seine) (ADJ blitzenden) (ADJ braunen) (NOUN Augen)) (CCONJ und) (NP (DET das) (ADJ breite) (NOUN Glasscheiben))))
+
+Constituency Tree of the Sentence 96:
+[96] (ROOT (VROOT (S (PRON Er) (VERB trug) (NP (DET eine) (ADJ schwarze) (NOUN Lederjacke) (PP (ADP über) (CNP (NP (DET einem) (ADJ weissen) (NOUN T-) (NOUN Shirt)) (CCONJ und) (DET eine) (AP (ADJ eng) (ADJ anliegende)) (ADJ schwarze) (NOUN Jeans))))) (NP (S (PRON die) (PP (ADP in) (ADJ schweren) (PN (PROPN Doc) (PROPN Martens))) (NOUN Stiefeln) (VERB verschwand)))))
+
+Constituency Tree of the Sentence 97:
+[97] (ROOT (VROOT (PROPN Wow) (CS (CS (S (VERB dachte) (PROPN Sadie)) (CCONJ und) (S (VERB zwang) (PRON sich)))) (VP (PRON ihm) (ADV wieder) (PP (ADP in) (DET das) (NOUN Gesicht)) (VZ (PART zu) (VERB sehen))) (S (NP (DET der) (NOUN Typ)) (AUX ist) (DET die) (NOUN Art) (NOUN Nachbar)) (NP (S (PP (ADP an) (PRON die)) (PRON ich) (VP (PRON mich) (VERB gewöhnen)) (AUX könnte)))))
+
+Constituency Tree of the Sentence 98:
+[98] (ROOT (VROOT (S (CCONJ Und) (AVP (ADV so) (SCONJ wie) (PROPN Cat)) (PRON ihn) (VERB anstarrte)) (S (VERB schien) (PRON sie) (VP (NP (PRON etwas) (NOUN Ähnliches)) (VZ (PART zu) (VERB denken))))))
+
+Constituency Tree of the Sentence 99:
+[99] (ROOT (VROOT (S (ADJ Amüsiert) (VERB bemühte) (PRON sich) (PROPN Sadie) (PP (ADP um) (DET ein) (AP (ADV möglichst) (ADJ neutrales)) (NOUN Lächeln)))))
+
+Constituency Tree of the Sentence 100:
+[100] (ROOT (VROOT (X Hi.) (S (ADV Wie) (AUX können) (PRON wir) (VP (ADJ behilflich) (AUX sein)))))
+
+Constituency Tree of the Sentence 101:
+[101] (ROOT (VROOT (S (NP (DET Das) (NOUN Lächeln) (NP (DET ihres) (NOUN Nachbarn))) (VERB wurde) (ADV noch) (ADJ breiter))))
+
+Constituency Tree of the Sentence 102:
+[102] (ROOT (VROOT (CS (S (PP (ADP Seit) (NOUN Wochen)) (VERB gehen) (ADV hier) (NP (DET die) (NOUN Handwerker)) (ADV ein)) (CCONJ und) (ADP aus)) (CS (S (VERB sagte) (PRON er)) (CCONJ und) (S (VERB nickte) (PROPN Cat) (ADP zu)))))
+
+Constituency Tree of the Sentence 103:
+[103] (ROOT (VROOT (S (CCONJ Und) (PRON ich) (VERB dachte)) (AVP (ADV jetzt)) (S (ADV wo) (PRON es) (AVP (ADV so)) (VERB aussieht)) (S (SCONJ als) (AUX wären) (PRON sie) (AP (ADV fast) (ADJ fertig))) (S (AUX ist) (NP (PRON es)) (PP (ADP an) (DET der) (NOUN Zeit))) (CVP (VP (VERB vorbeizuschauen)) (CCONJ und) (VP (NOUN Hallo) (VZ (PART zu) (VERB sagen))))))
+
+Constituency Tree of the Sentence 104:
+[104] (ROOT (VROOT (S (PP (ADP In) (DET seiner) (NOUN Stimme)) (VERB schwang) (DET ein) (ADJ leichter) (NOUN Akzent) (ADP mit)) (NP (S (PRON der) (NP (DET jedes) (NOUN Wort) (PP (ADP zu) (DET dem) (NOUN Ende) (ADV hin))) (CAP (AP (NP (DET ein) (DET wenig)) (ADJ höher) (AP (ADP als) (ADJ normal))) (CCONJ und) (AP (ADV damit) (ADV sofort) (AP (AVP (ADV sehr) (DET viel)) (ADJ interessanter)) (VERB klingen))) (VERB liess)))))
+
+Constituency Tree of the Sentence 105:
+[105] (ROOT (VROOT (NOUN Französisch) (CS (S (VERB überlegte) (PROPN Sadie)) (CCONJ und) (S (VERB hoffte) (ADJ gleichzeitig))) (S (SCONJ dass) (PRON sie) (PRON sich) (VERB irrte))))
+
+Constituency Tree of the Sentence 106:
+[106] (ROOT (VROOT (S (ADV Auch) (SCONJ wenn) (PROPN Cat) (VP (AVP (ADV sehr) (ADV gerne)) (PP (ADP in) (PROPN Paris)) (VERB gelebt)) (AUX hatte)) (S (AUX war) (NP (DET ihre) (NOUN Abreise)) (VP (VP (PP (ADP von) (ADJ dunklen) (NOUN Wolken)) (ADJ überschattet)) (AUX gewesen)))))
+
+Constituency Tree of the Sentence 107:
+[107] (ROOT (VROOT (DET Das) (NOUN Letzte) (NP (S (PRON was) (PRON sie) (VERB brauchte))) (S (AUX war) (DET eine) (ADJ ständige) (NOUN Erinnerung) (ADP an) (PRON das)) (NP (PP (S (PRON was) (PRON sie) (PP (ADP als) (DET ihr) (NOUN Scheitern)) (VERB betrachtete))))))
+
+Constituency Tree of the Sentence 108:
+[108] (ROOT (VROOT (CS (S (PROPN Cat) (AUX hatte) (VP (AVP (ADV noch) (ADV immer)) (NP (DET kein) (NOUN Wort)) (VERB gesagt)))) (S (ADV also) (VERB legte) (PROPN Sadie) (NP (DET ihren) (NOUN Bleistift)) (ADV beiseite)) (CCONJ und) (S (VERB streckte) (NP (DET ihrem) (NOUN Besucher)) (NP (DET die) (NOUN Hand)) (ADV entgegen))))
+
+Constituency Tree of the Sentence 109:
+[109] (ROOT (VROOT (S (PRON Ich) (AUX bin) (PN (PROPN Sadie) (PROPN Smart))) (NP (NP (DET die) (ADJ kreative) (NOUN Hälfte) (PP (ADP von) (PN (PROPN Smart) (PROPN Cookies)))))))
+
+Constituency Tree of the Sentence 110:
+[110] (ROOT (VROOT (S (NP (DET Der) (NOUN Mann)) (VERB schüttelte) (PRON ihr) (NP (DET die) (NOUN Hand)))))
+
+Constituency Tree of the Sentence 111:
+[111] (ROOT (VROOT (NP (ADJ Grossartiger) (NOUN Name) (PP (ADP für) (DET ein) (NOUN Keksgeschäft)))))
+
+Constituency Tree of the Sentence 112:
+[112] (ROOT (VROOT (S (PRON Ich) (AUX bin) (PN (PROPN Jaren) (PROPN Smit)))))
+
+Constituency Tree of the Sentence 113:
+[113] (ROOT (VROOT (S (PRON Mir) (VERB gehört) (NP (DET das) (ADJ holländische) (NOUN Pfannkuchenrestaurant)) (ADP gegenüber))))
+
+Constituency Tree of the Sentence 114:
+[114] (ROOT (VROOT (CS (S (PRON Das) (VERB erklärt) (PP (ADP auf) (DET jeden) (NOUN Fall)) (NP (DET den) (NOUN Akzent)))) (S (VERB entschied) (PROPN Sadie)) (CCONJ und) (S (VERB spähte) (ADP an) (DET der) (ADJ alten) (NOUN Eiche)) (PP (S (PRON die) (PP (ADP in) (DET der) (NOUN Mitte) (NP (DET des) (NOUN Platzes))) (VERB stand))) (ADV vorbei) (ADP in) (NOUN Richtung) (DET des) (CAP (ADJ orange)) (ADJ grünen) (NOUN Schildes) (PP (NP (S (PRON das) (PP (ADP über) (DET der) (ADJ doppelflügeligen) (NOUN Eingangstür) (NP (DET des) (PN (PROPN Lets) (PROPN Go) (PROPN Dutch)))) (VERB hing))))))
+
+Constituency Tree of the Sentence 115:
+[115] (ROOT (VROOT (S (ADV Dann) (VERB wandte) (PRON sie) (PRON sich) (PP (ADP mit) (DET einem) (ADJ vielsagenden) (NOUN Blick) (PP (ADP zu) (PROPN Cat))) (ADP um))))
+
+Constituency Tree of the Sentence 116:
+[116] (ROOT (VROOT (S (CCONJ Und) (PRON das) (AUX ist) (NP (DET das) (NOUN Hirn) (PP (ADP hinter) (DET der) (ADJ ganzen) (NOUN Operation))))))
+
+Constituency Tree of the Sentence 117:
+[117] (ROOT (VROOT (PN (PROPN Cat) (PROPN Garcia))))
+
+Constituency Tree of the Sentence 118:
+[118] (ROOT (VROOT (VP (NP (DET Ihren) (NOUN Namen)) (ADP laut) (ADJ ausgesprochen) (VZ (PART zu) (VERB hören))) (S (VERB schien) (PROPN Cat) (VP (PP (ADP aus) (DET ihrem) (NOUN Tagtraum)) (VZ (PART zu) (VERB reissen))))))
+
 
