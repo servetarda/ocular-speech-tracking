@@ -1,0 +1,183 @@
+Constituency Tree of the Sentence 99:
+[99] (ROOT (VROOT (S (PRON Ich) (VERB fürchte)) (S (PRON Sie) (AUX müssen) (ADV vorher) (PP (ADP mit) (DET einer) (NOUN Sense)) (VERB ran)) (S (VERB meinte) (PROPN Theo))))
+
+Constituency Tree of the Sentence 100:
+[100] (ROOT (VROOT (S (PRON Sie) (VERB seufzte))))
+
+Constituency Tree of the Sentence 101:
+[101] (ROOT (VROOT (S (CCONJ Und) (ADV wo) (VERB bekomme) (PRON ich) (ADV jetzt) (NP (DET ne) (NOUN Sense)) (ADV her))))
+
+Constituency Tree of the Sentence 102:
+[102] (ROOT (VROOT (PUNCT „) (PP (ADP Von) (PRON mir))))
+
+Constituency Tree of the Sentence 103:
+[103] (ROOT (VROOT (S (PRON Ich) (VERB hole) (PRON sie)) (PUNCT “)))
+
+Constituency Tree of the Sentence 104:
+[104] (ROOT (VROOT (CS (S (ADV Prompt) (VERB setzte) (PRON er) (PRON sich) (PP (ADP in) (NOUN Bewegung))) (CCONJ und) (S (VERB kam) (AP (NP (ADJ kurze) (NOUN Zeit)) (ADJ später)) (PP (ADP mit) (DET der) (NOUN Sense)) (ADV zurück)))))
+
+Constituency Tree of the Sentence 105:
+[105] (ROOT (VROOT (PUNCT „) (AVP (ADV Oh) (ADV je)) (S (AUX ist) (PRON die) (ADJ riesig)) (PUNCT “)))
+
+Constituency Tree of the Sentence 106:
+[106] (ROOT (VROOT (S (ADJ Übervorsichtig) (VERB nahm) (PROPN Marlene) (NP (DET das) (NOUN Gerät)) (ADV entgegen)) (S (SCONJ weil) (PRON sie) (VERB fürchtete)) (PRON sich) (ADP an) (DET dem) (CAP (ADJ scharfen)) (VP (PP (ADJ langen) (NOUN Messer)) (VZ (PART zu) (VERB verletzen)))))
+
+Constituency Tree of the Sentence 107:
+[107] (ROOT (VROOT (S (PRON Sie) (VERB hatte) (DET keine) (NOUN Ahnung)) (NP (S (SCONJ wie) (PRON sie) (ADV nun) (VP (VERB vorgehen)) (AUX sollte)))))
+
+Constituency Tree of the Sentence 108:
+[108] (ROOT (VROOT (CS (S (PRON Das) (AUX war) (PROPN Theo) (ADV offenbar) (AP (ADV gleich) (ADJ klar)))) (S (ADV daher) (VERB machte) (PRON er) (PRON es) (PRON ihr) (ADP vor))))
+
+Constituency Tree of the Sentence 109:
+[109] (ROOT (VROOT (CS (S (PP (ADP Bei) (PRON ihm)) (VERB sah) (PRON es) (AP (AVP (ADV so)) (ADJ einfach)) (ADP aus))) (CCONJ aber) (S (SCONJ als) (PROPN Marlene) (NP (PRON es) (ADV selbst)) (VERB versuchte)) (S (VERB stellte) (PRON sie) (PRON sich) (AP (AVP (ADV so)) (ADJ ungeschickt)) (ADP an)) (S (SCONJ dass) (PRON sie) (NP (ADV beinahe) (PROPN Theos) (ADJ rechte) (NOUN Wade)) (VERB erwischte))))
+
+Constituency Tree of the Sentence 110:
+[110] (ROOT (VROOT (S (ADJ Geistesgegenwärtig) (AUX konnte) (PRON er) (PP (ADP in) (DET dem) (ADJ letzten) (NOUN Moment)) (AVP (ADV gerade) (ADV noch)) (VP (PP (ADP zu) (DET der) (NOUN Seite)) (VERB springen)))))
+
+Constituency Tree of the Sentence 111:
+[111] (ROOT (VROOT (PUNCT „) (S (PRON Das) (AUX müssen) (PRON wir) (ADV aber) (ADV noch) (VERB üben)) (PUNCT “)))
+
+Constituency Tree of the Sentence 112:
+[112] (ROOT (VROOT (CS (S (PRON Er) (VERB grinste) (ADV wieder))) (S (VERB nahm) (PRON es) (PP (ADP mit) (NOUN Humor)))))
+
+Constituency Tree of the Sentence 113:
+[113] (ROOT (VROOT (S (ADV Insgeheim) (VERB hoffte) (PROPN Marlene)) (S (PROPN Theo) (AUX würde) (VP (PRON ihr) (VERB anbieten))) (VP (NP (DET die) (NOUN Wiese)) (PP (ADP für) (PRON sie)) (VZ (PART zu) (VERB schneiden)))))
+
+Constituency Tree of the Sentence 114:
+[114] (ROOT (VROOT (S (CCONJ Aber) (PRON das) (VERB tat) (PRON er) (PART nicht))))
+
+Constituency Tree of the Sentence 115:
+[115] (ROOT (VROOT (PUNCT „) (S (PRON Ich) (VERB gehe) (ADV dann) (PRON man) (ADV wieder) (ADV rüber)) (PUNCT “) (S (VERB sagte) (PRON er))))
+
+Constituency Tree of the Sentence 116:
+[116] (ROOT (VROOT (PUNCT „) (S (AUX Muss) (ADV noch) (VERB giessen))))
+
+Constituency Tree of the Sentence 117:
+[117] (ROOT (VROOT (NP (ADJ Frohes) (NOUN Schaffen)) (PUNCT “)))
+
+Constituency Tree of the Sentence 118:
+[118] (ROOT (VROOT (PUNCT „) (ADV Gleichfalls) (PUNCT “) (S (VERB erwiderte) (PRON sie))))
+
+Constituency Tree of the Sentence 119:
+[119] (ROOT (VROOT (S (NOUN Weg) (AUX war) (PRON er))))
+
+Constituency Tree of the Sentence 120:
+[120] (ROOT (VROOT (CS (S (ADJ Später) (VERB kam) (PRON er) (ADV jedoch) (ADV nochmal) (ADJ kurz) (ADV vorbei)) (CCONJ und) (S (VERB brachte) (PROPN Marlene) (NP (DET ein) (NOUN Mettbrötchen)) (PP (ADP mit) (NOUN Handgelenk))))))
+
+Constituency Tree of the Sentence 121:
+[121] (ROOT (VROOT (PUNCT „) (PP (ADP Zu) (DET der) (NOUN Stärkung)) (PUNCT “) (S (VERB sagte) (PRON er))))
+
+Constituency Tree of the Sentence 122:
+[122] (ROOT (VROOT (PUNCT „) (S (PRON Das) (VERB gibt) (NOUN Kraft))))
+
+Constituency Tree of the Sentence 123:
+[123] (ROOT (VROOT (S (AUX Habe) (PRON ich) (VP (ADV heute) (ADJ früh) (ADJ frisch) (PP (ADP auf) (DET dem) (NOUN Markt)) (VERB gekauft))) (PUNCT “)))
+
+Constituency Tree of the Sentence 124:
+[124] (ROOT (VROOT (PUNCT „) (NOUN Danke) (PUNCT “) (S (ADJ Herzhaft) (VERB biss) (PRON sie) (PP (ADP in) (DET das) (NOUN Fortkommen)))))
+
+Constituency Tree of the Sentence 125:
+[125] (ROOT (VROOT (S (AVP (ADV Erst) (ADV jetzt)) (VERB merkte) (PRON sie)) (S (AP (ADV wie) (ADJ hungrig)) (PRON sie) (AUX war))))
+
+Constituency Tree of the Sentence 126:
+[126] (ROOT (VROOT (S (PRON Sie) (VERB fragte) (PRON sich)) (S (SCONJ ob) (PROPN Theo) (ADV wohl) (NP (DET eine) (CNP (NOUN Ehefrau) (CCONJ oder) (NOUN Lebensgefährtin))) (VERB hatte))))
+
+Constituency Tree of the Sentence 127:
+[127] (ROOT (VROOT (S (AUX Kann) (PRON mir) (ADV doch) (ADV sowieso) (VP (ADJ egal) (AUX sein))) (S (VERB schalt) (PRON sie) (PRON sich))))
+
+Constituency Tree of the Sentence 128:
+[128] (ROOT (VROOT (S (PRON Ich) (AUX bin) (AP (PP (ADP an) (DET keiner) (NOUN Beziehung)) (ADJ interessiert)))))
+
+Constituency Tree of the Sentence 129:
+[129] (ROOT (VROOT (S (ADJ Verzweifelt) (VERB mühte) (PRON sie) (PRON sich) (PP (ADP mit) (DET der) (NOUN Sense)) (ADP ab))))
+
+Constituency Tree of the Sentence 130:
+[130] (ROOT (VROOT (S (NP (DET Die) (NOUN Arbeit)) (VERB ging) (PRON ihr) (AP (ADV sehr) (ADJ schwer)) (PP (ADP von) (DET der) (NOUN Garten)))))
+
+Constituency Tree of the Sentence 131:
+[131] (ROOT (VROOT (S (PP (ADP Nach) (AP (ADV mehr) (AP (ADP als) (DET einer))) (NOUN Stunde)) (VERB sah) (PRON man) (ADV kaum) (NP (DET eine) (NOUN Besuch)))))
+
+Constituency Tree of the Sentence 132:
+[132] (ROOT (VROOT (S (PRON Was) (PP (ADP für) (DET eine) (NOUN Sisyphusarbeit)))))
+
+Constituency Tree of the Sentence 133:
+[133] (ROOT (VROOT (S (ADV Jetzt) (VERB schmerzte) (ADV auch) (ADV noch) (CNP (NP (DET ihr) (ADJ rechter) (NOUN Arm)) (CCONJ und) (NP (DET das) (NOUN Handgelenk))))))
+
+Constituency Tree of the Sentence 134:
+[134] (ROOT (VROOT (S (PROPN Marlene) (AUX hätte) (VP (VERB heulen) (AUX können)))))
+
+Constituency Tree of the Sentence 135:
+[135] (ROOT (VROOT (CS (S (PRON Sie) (VERB hatte) (DET keine) (NOUN Ahnung))) (NP (S (SCONJ wie) (PRON sie) (VP (NP (PRON es)) (VERB schaffen)) (AUX sollte))) (VP (NP (DET die) (DET vielen) (NOUN Quadratmeter) (NOUN Rasenfläche)) (VZ (PART zu) (VERB kürzen))) (CCONJ aber) (S (ADV eins) (VERB wusste) (PRON sie)) (S (PP (ADP für) (ADV heute)) (VERB hatte) (PRON sie) (ADV jedenfalls) (ADV genug))))
+
+Constituency Tree of the Sentence 136:
+[136] (ROOT (VROOT (CS (S (PP (ADP An) (DET dem) (NOUN Ende)) (VERB kriege) (PRON ich) (ADV noch) (NP (DET eine) (NOUN Sehnenscheidenentzündung)))) (S (VERB dachte) (PRON sie)) (CCONJ und) (S (VERB entschied)) (VP (ADV lieber) (NP (DET dem) (NOUN Unkraut)) (PP (ADP zu) (NOUN Leibe)) (VZ (PART zu) (VERB rücken)))))
+
+Constituency Tree of the Sentence 137:
+[137] (ROOT (VROOT (S (CCONJ Doch) (NP (ADV auch) (DET diese) (NOUN Arbeit)) (AUX war) (ADJ müssig))))
+
+Constituency Tree of the Sentence 138:
+[138] (ROOT (VROOT (CNP (NOUN Vogelmiere)) (NOUN Löwenzahn) (NOUN Giersch) (S (NOUN Brennesseln) (CCONJ und) (NP (DET anderes) (NOUN Gestrüpp)) (VERB wucherte) (ADV überall))))
+
+Constituency Tree of the Sentence 139:
+[139] (ROOT (VROOT (S (SCONJ Obwohl) (NP (PROPN Marlenes) (NOUN Eimer)) (ADV bereits) (ADJ überquoll) (VERB sah) (PRON man) (ADV einfach) (NP (DET kein) (NOUN Fortkommen)))))
+
+Constituency Tree of the Sentence 140:
+[140] (ROOT (VROOT (S (PRON Sie) (VERB seufzte))))
+
+Constituency Tree of the Sentence 141:
+[141] (ROOT (VROOT (S (ADV Dann) (VERB tauchte) (PROPN Vera) (ADP auf))))
+
+Constituency Tree of the Sentence 142:
+[142] (ROOT (VROOT (PUNCT „) (S (INTJ Ach) (PRON du) (ADJ liebe) (NOUN Zeit)) (PUNCT “) (S (VERB rief) (NP (DET die) (NOUN Freundin)) (ADV schon) (PP (ADP von) (NOUN Weitem)))))
+
+Constituency Tree of the Sentence 143:
+[143] (ROOT (VROOT (PUNCT „) (S (ADV Da) (AUX hast) (PRON du) (VP (PRON dir) (ADV ja) (PRON was) (VERB aufgehalst))) (PUNCT “)))
+
+Constituency Tree of the Sentence 144:
+[144] (ROOT (VROOT (PUNCT „) (NP (NOUN Danke) (PP (ADP für) (DET die) (NOUN Motivation))) (PUNCT “) (S (VERB erwiderte) (PROPN Marlene) (VERB angesäuert))))
+
+Constituency Tree of the Sentence 145:
+[145] (ROOT (VROOT (S (VP (PP (ADP In) (DET dem) (NOUN Grunde)) (VERB genommen)) (AUX war) (PRON sie) (ADV aber) (AP (ADJ froh) (PP (ADP über) (PROPN Veras) (NOUN Besuch))))))
+
+Constituency Tree of the Sentence 146:
+[146] (ROOT (VROOT (S (ADV Jetzt) (VERB hatte) (PRON sie) (ADV wenigstens) (DET einen) (NOUN Vorwand)) (NP (VP (ADV heute) (AVP (PART nicht) (ADV mehr)) (VP (ADV weiter) (VERB schuften)) (VZ (PART zu) (AUX müssen))))))
+
+Constituency Tree of the Sentence 147:
+[147] (ROOT (VROOT (S (SCONJ Als) (PRON sie) (ADV abends) (PP (ADP in) (DET dem) (NOUN Bett)) (VERB lag)) (S (VERB fand) (PRON sie) (NP (DET keinen) (NOUN Humor)))))
+
+Constituency Tree of the Sentence 148:
+[148] (ROOT (VROOT (S (ADJ Ständig) (VERB grübelte) (PRON sie) (PP (ADV darüber)) (ADP nach)) (S (SCONJ wie) (PRON sie) (PP (ADP aus) (DET dieser) (NOUN Wildwuchsparzelle)) (VP (NP (DET einen) (ADJ passablen) (NOUN Schrebergarten)) (VERB zaubern)) (AUX könnte))))
+
+Constituency Tree of the Sentence 149:
+[149] (ROOT (VROOT (S (SCONJ Wenn) (PRON ich) (PP (ADP in) (DET diesem) (NOUN Jahr)) (ADV noch) (VP (PRON etwas) (VERB ernten)) (AUX will)) (S (AUX muss) (PRON ich) (PRON mich) (PP (ADP mit) (DET dem) (NOUN Aussäen)) (VERB beeilen)) (S (VERB überlegte) (PRON sie))))
+
+Constituency Tree of the Sentence 150:
+[150] (ROOT (VROOT (S (NP (DET Das) (NOUN Frühjahr)) (AUX ist) (ADV ja) (ADV schon) (ADV fast) (ADV vorbei))))
+
+Constituency Tree of the Sentence 151:
+[151] (ROOT (VROOT (S (PP (ADP In) (DET der) (NOUN Nacht)) (VERB wurde) (PRON sie) (ADJ wach))))
+
+Constituency Tree of the Sentence 152:
+[152] (ROOT (VROOT (S (PRON Ihr) (AUX war) (ADJ speiübel))))
+
+Constituency Tree of the Sentence 153:
+[153] (ROOT (VROOT (S (PRON Sie) (AUX musste) (VP (PRON sich) (ADJ mehrfach) (VERB übergeben)))))
+
+Constituency Tree of the Sentence 154:
+[154] (ROOT (VROOT (S (ADV Dann) (VERB bekam) (PRON sie) (ADV auch) (ADV noch) (NP (ADJ fürchterliche) (CNP (NOUN Bauchschmerzen) (CCONJ und) (NOUN Durchfall))))))
+
+Constituency Tree of the Sentence 155:
+[155] (ROOT (VROOT (CS (S (PRON Sie) (VERB dachte) (PP (ADP an) (DET das) (NOUN Mettbrötchen))) (CCONJ und) (S (AUX musste) (VP (ADJ direkt) (ADV wieder) (VERB erbrechen))))))
+
+Constituency Tree of the Sentence 156:
+[156] (ROOT (VROOT (S (NP (NUM Drei) (NOUN Tage)) (AUX war) (PRON sie) (ADJ krank))))
+
+Constituency Tree of the Sentence 157:
+[157] (ROOT (VROOT (CS (S (PP (ADP an) (DET dem) (ADJ vierten) (NOUN Tag)) (VERB ging) (PRON es) (PRON ihr) (ADV zwar) (AVP (ADV noch) (PART nicht)) (AP (ADJ richtig) (ADJ gut)))) (S (PRON sie) (VERB raffte) (PRON sich) (ADV aber) (ADV dennoch) (ADP auf)) (CCONJ und) (S (VERB fuhr) (PP (ADP zu) (DET dem) (NOUN Garten)))))
+
+Constituency Tree of the Sentence 158:
+[158] (ROOT (VROOT (S (NP (DET Die) (ADJ frische) (NOUN Luft)) (AUX wird) (VP (PRON mir) (VERB guttun)))))
+
+Constituency Tree of the Sentence 159:
+[159] (ROOT (VROOT (S (PRON Ich) (AUX muss) (PRON mich) (ADV ja) (AVP (PART nicht) (ADV gleich)) (ADV wieder) (VP (ADV so) (VERB verausgaben)))))
+
