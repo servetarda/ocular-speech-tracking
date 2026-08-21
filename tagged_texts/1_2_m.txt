@@ -1,1 +1,121 @@
+Constituency Tree of the Sentence 38:
+[38] (ROOT (VROOT (S (ADV Vielleicht) (VERB bekam) (PRON sie) (ADV ja) (ADV sogar) (NP (DET einen) (NOUN Pokal)) (VERB verliehen) (PP (ADP für) (DET die) (ADJ schönste) (NOUN Parzelle) (PP (ADP in) (DET der) (NOUN Vollbart))))))
+
+Constituency Tree of the Sentence 39:
+[39] (ROOT (VROOT (CS (S (ADV Zwar) (AUX hatte) (PRON sie) (VP (CVP (NP (DET keinerlei) (NOUN Erfahrung) (PP (ADP in) (NOUN Gartengestaltung))) (CCONJ und) (PP (AVP (ADV noch) (ADV nie)) (ADP in) (DET ihrem) (NOUN Leben))) (PRON irgendetwas) (VERB angepflanzt)))) (CCONJ aber) (S (NP (DET ihre) (NOUN Kakteenzucht) (PP (ADP auf) (DET der) (NOUN Fensterbank))) (VERB gedieh) (ADJ prächtig))))
+
+Constituency Tree of the Sentence 40:
+[40] (ROOT (VROOT (NP (DET Ein) (ADJ sicherer) (NOUN Beweis) (PP (ADV dafür))) (SCONJ dass) (PRON sie) (NP (DET einen) (PUNCT „) (ADJ grünen) (NOUN Daumen)) (PUNCT “) (S (VERB hatte)) (S (VERB fand) (PRON sie))))
+
+Constituency Tree of the Sentence 41:
+[41] (ROOT (VROOT (S (PP (ADP In) (DET dem) (NOUN Übrigen)) (VERB gab) (PRON es) (ADV ja) (NP (DET das) (NOUN Schuppen)))))
+
+Constituency Tree of the Sentence 42:
+[42] (ROOT (VROOT (CS (S (PRON Sie) (VERB fuhr) (PP (ADP zu) (DET diesem) (ADJ grossen) (NOUN Gartencenter)) (PP (ADP in) (DET dem) (ADJ neuen) (NOUN Industriegebiet))) (CCONJ und) (S (VERB packte) (PP (ADP von) (DET der) (NOUN Heckenschere)) (PP (ADP bis) (ADP zu) (DET der) (NOUN Grabegabel)) (DET alle) (NOUN Gartengeräte) (PP (ADP in) (DET den) (ADJ riesigen) (NOUN Einkaufswagen)))) (NP (S (PRON die) (PP (ADP laut) (PROPN Google)) (PP (ADP für) (DET jeden) (NOUN Hobbygärtner)) (ADJ unerlässlich) (AUX sind)))))
+
+Constituency Tree of the Sentence 43:
+[43] (ROOT (VROOT (S (PROPN Marlene) (VERB irrte) (PP (ADP durch) (DET den) (NOUN Laden))) (PP (ADP auf) (DET der) (NOUN Suche) (PP (ADP nach) (DET einer) (NOUN Schubkarre)))))
+
+Constituency Tree of the Sentence 44:
+[44] (ROOT (VROOT (S (PRON Das) (VERB gibts) (ADV doch) (PART nicht)) (S (SCONJ dass) (ADV hier) (DET kein) (NOUN Verkäufer) (VERB rumläuft)) (NP (S (PRON den) (PRON man) (ADV mal) (VP (PRON was) (VERB fragen)) (AUX kann)))))
+
+Constituency Tree of the Sentence 45:
+[45] (ROOT (VROOT (S (ADV Inzwischen) (AUX war) (PRON sie) (AP (ADJ völlig) (ADJ genervt)))))
+
+Constituency Tree of the Sentence 46:
+[46] (ROOT (VROOT (S (ADV Doch) (ADV dann) (VERB blieb) (NP (DET ihr) (NOUN Blick)) (VP (PP (ADP an) (DET einer) (NOUN Zwergengruppe)) (VERB hängen)))))
+
+Constituency Tree of the Sentence 47:
+[47] (ROOT (VROOT (S (NP (DET Die) (NOUN Figuren)) (VERB zogen) (PRON sie) (ADJ förmlich) (ADJ magisch) (ADP an))))
+
+Constituency Tree of the Sentence 48:
+[48] (ROOT (VROOT (S (NP (DET Diese) (NUM fünf) (NOUN Zwerge)) (VERB hatten) (NP (AP (ADV so) (ADJ unheimlich) (ADJ echt) (ADJ aussehende)) (NOUN Schubkarre)))))
+
+Constituency Tree of the Sentence 49:
+[49] (ROOT (VROOT (S (PRON Ihr) (VERB schien)) (S (SCONJ als) (AUX hätte) (PRON ihr) (NP (DET der) (NOUN Zwerg)) (VP (PP (ADP mit) (DET der) (NOUN Schaufel)) (ADV eben) (VERB zugezwinkert)))))
+
+Constituency Tree of the Sentence 50:
+[50] (ROOT (VROOT (CS (S (ADV Eigentlich) (AUX konnte) (PROPN Marlene) (PRON sich) (NP (DET solchen) (PUNCT „) (NOUN Luxus)))) (PUNCT “) (PP (ADP bei) (DET dem) (ADJ besten) (NOUN Willen)) (PART nicht) (VP (VERB leisten)) (CCONJ aber) (ADJ egal) (S (PRON sie) (AUX musste) (NP (DET diese) (NOUN Zwerge)) (ADV einfach) (VP (VERB haben))) (NP (DET alle) (NUM fünf))))
+
+Constituency Tree of the Sentence 51:
+[51] (ROOT (VROOT (CS (S (NP (DET Der) (NOUN Zwerg) (PP (ADP mit) (DET dem) (NOUN Rasenmäher))) (VERB hatte) (CAP (ADJ dicke)))) (ADJ rote) (NOUN Pausbacken) (NP (CS (S (NP (PRON der) (ADV daneben)) (VERB trug) (NP (DET eine) (NOUN Brille))) (CCONJ und) (S (VERB stützte) (PRON sich) (PP (ADP auf) (DET seiner) (NOUN Schaufel)) (ADP ab)))) (S (DET einer) (VERB hielt) (NP (DET einen) (NOUN Rechen) (PP (ADP in) (DET der) (NOUN Hand)))) (DET ein) (DET anderer) (NP (S (PRON der) (ADJ frech) (VERB grinste))) (NP (DET eine) (NOUN Heckenschere)) (CCONJ und) (S (DET einer) (VERB schob) (NP (DET eine) (NOUN Schubkarre)))))
+
+Constituency Tree of the Sentence 52:
+[52] (ROOT (VROOT (S (ADV Prompt) (VERB fiel) (PROPN Marlene) (ADV ein)) (NP (S (ADV wonach) (PRON sie) (VP (ADJ eigentlich) (VERB gesucht)) (AUX hatte)))))
+
+Constituency Tree of the Sentence 53:
+[53] (ROOT (VROOT (INTJ Ach) (S (NP (DET eine) (NOUN Schubkarre)) (VERB bekomme) (PRON ich) (ADV sicher) (ADJ günstig) (PP (ADP bei) (PROPN Ebay)))))
+
+Constituency Tree of the Sentence 54:
+[54] (ROOT (VROOT (CS (S (PRON Die) (VERB kaufe) (PRON ich) (ADV dann) (ADV halt) (PP (ADP in) (DET dem) (ADJ nächsten) (NOUN Monat)))) (S (SCONJ wenn) (PRON es) (VP (ADV wieder) (NOUN Geld) (VERB gegeben)) (AUX hat)) (S (VERB dachte) (PRON sie)) (CCONJ und) (S (VERB machte) (PRON sich) (PP (ADP auf) (DET den) (NOUN Weg) (PP (ADP zu) (DET den) (NOUN Wiese))))))
+
+Constituency Tree of the Sentence 55:
+[55] (ROOT (VROOT (S (SCONJ Als) (PROPN Marlene) (VP (NP (DET die) (ADJ neuen) (NOUN Gartengeräte)) (PP (ADP in) (DET dem) (NOUN Schuppen)) (VERB verstaut)) (AUX hatte)) (PUNCT –) (S (NP (DET die) (NOUN Zwerge)) (VERB stellte) (PRON sie) (AVP (ADV erst) (ADV mal)) (PP (ADP in) (DET die) (NOUN Laube))) (PUNCT –) (S (VERB überlegte) (PRON sie)) (S (SCONJ wie) (PRON sie) (ADV nun) (VP (ADJ arbeitstechnisch) (PP (ADP an) (DET dem) (ADJ besten)) (VERB vorgehen)) (AUX sollte))))
+
+Constituency Tree of the Sentence 56:
+[56] (ROOT (VROOT (CS (S (ADV Zuerst) (VERB kümmere) (PRON ich) (PRON mich) (PP (ADP um) (DET den) (NOUN Rasen)))) (S (VERB entschied) (PRON sie)) (CCONJ und) (S (VERB holte) (DET den) (NOUN Elektrorasenmäher)) (NP (S (PRON den) (PRON sie) (VP (PP (ADP von) (DET dem) (NOUN Vorbesitzer)) (VERB übernommen)) (AUX hatte))) (PP (ADP aus) (DET dem) (NOUN Schuppen))))
+
+Constituency Tree of the Sentence 57:
+[57] (ROOT (VROOT (S (ADV Kaum) (AUX hatte) (PRON sie) (CVP (VP (NP (DET den) (NOUN Rasenmäher)) (VERB eingeschaltet)) (CCONJ und) (VP (NP (DET ein) (NOUN Stück)) (PP (ADP vor) (PRON sich)) (VERB hergeschoben)))) (CS (S (VERB gab) (PRON er) (NP (DET ein) (NOUN Brummen)) (PP (ADP von) (PRON sich)))) (S (AVP (ADJ kurz) (ADV darauf)) (VERB ging) (PRON er) (ADP aus))))
+
+Constituency Tree of the Sentence 58:
+[58] (ROOT (VROOT (PUNCT „) (NP (ADJ Verdammter) (NOUN Mist)) (PUNCT “) (S (VERB fluchte) (PROPN Marlene))))
+
+Constituency Tree of the Sentence 59:
+[59] (ROOT (VROOT (PUNCT „) (S (PRON Was) (AUX ist) (ADV denn) (ADV jetzt) (ADV bloss) (PP (ADP mit) (DET dem) (ADJ blöden) (NOUN Ding)) (ADV los)) (PUNCT “)))
+
+Constituency Tree of the Sentence 60:
+[60] (ROOT (VROOT (PUNCT „) (S (NP (DET Das) (NOUN Gras)) (AUX ist) (AP (DET viel) (ADV zu) (ADJ hoch)))))
+
+Constituency Tree of the Sentence 61:
+[61] (ROOT (VROOT (CS (S (NP (DET Die) (ADJ langen) (NOUN Grasbüschel)) (AUX werden) (VP (VP (PRON sich) (PP (ADP in) (DET den) (NOUN Rotorblättern)) (VERB verfangen)) (AUX haben))) (CCONJ und) (S (VERB blockieren) (PRON sie))) (PUNCT “) (S (VERB ertönte) (NP (DET eine) (ADJ tiefe) (NOUN Stimme)) (PP (ADP aus) (DET dem) (NOUN Garten)) (ADV gegenüber))))
+
+Constituency Tree of the Sentence 62:
+[62] (ROOT (VROOT (S (PROPN Marlene) (VERB drehte) (PRON sich) (ADP zu) (DET dem) (NOUN Nachbarn) (ADP um)) (PP (NP (DET einem) (ADJ grauhaarigen) (ADJ stattlichen) (NOUN Mann) (PP (ADP mit) (NOUN Vollbart))))))
+
+Constituency Tree of the Sentence 63:
+[63] (ROOT (VROOT (CS (S (NP (DET Der) (NOUN Klugscheisser)) (VERB hat) (NP (DET eine) (ADJ verblüffende) (NOUN Ähnlichkeit) (PP (ADP mit) (DET dem) (NOUN Zwerg) (PP (ADP mit) (DET der) (NOUN Heckenschere)))))) (S (VERB dachte) (PRON sie)) (CCONJ und) (S (VERB machte) (PRON sich) (PP (ADV daran))) (VP (NP (DET den) (NOUN Rasenmäher)) (VERB umzudrehen))))
+
+Constituency Tree of the Sentence 64:
+[64] (ROOT (VROOT (S (AVP (ADV So) (ADV sehr)) (PRON sie) (PRON sich) (ADV auch) (VERB anstrengte)) (S (PRON es) (VERB gelang) (PRON ihr) (PART nicht))))
+
+Constituency Tree of the Sentence 65:
+[65] (ROOT (VROOT (S (PRON Sie) (AUX war) (ADV einfach) (AP (ADV zu) (ADJ schwach)))))
+
+Constituency Tree of the Sentence 66:
+[66] (ROOT (VROOT (CS (S (PROPN Marlene) (VERB ärgerte) (PRON sich) (PP (ADP über) (PRON sich) (ADV selbst))) (CCONJ und) (PP (AVP (ADV erst) (ADV recht)) (ADV darüber))) (SCONJ dass) (NP (DET der) (NOUN Besserwisser)) (PP (ADP von) (ADV gegenüber)) (ADV offenbar) (DET alles) (NP (S (PRON was) (PRON sie) (VERB tat))) (S (ADJ genau) (VERB beobachtete))))
+
+Constituency Tree of the Sentence 67:
+[67] (ROOT (VROOT (S (ADJ Ungefragt) (VERB kam) (PRON er) (ADV jetzt) (ADV einfach) (PP (ADP in) (DET ihren) (NOUN Garten)))))
+
+Constituency Tree of the Sentence 68:
+[68] (ROOT (VROOT (PUNCT „) (S (VERB Lassen) (PRON Sie) (PRON mich) (PRON das) (NOUN mal) (VERB machen)) (PUNCT “) (S (VERB sagte) (PRON er))))
+
+Constituency Tree of the Sentence 69:
+[69] (ROOT (VROOT (PUNCT „) (S (PRON Das) (AUX ist) (ADV doch) (NOUN Männerarbeit)) (PUNCT “)))
+
+Constituency Tree of the Sentence 70:
+[70] (ROOT (VROOT (CS (S (NOUN Sacht) (VERB schob) (PRON er) (PRON sie) (PP (ADP zu) (DET der) (NOUN Seite))) (CCONJ und) (S (VERB schaffte) (NP (PRON es)) (PP (ADP in) (DET wenigen) (NOUN Minuten)))) (VP (NP (DET die) (NOUN Grasbüschel)) (VZ (PART zu) (VERB entfernen)))))
+
+Constituency Tree of the Sentence 71:
+[71] (ROOT (VROOT (S (ADJ Anschliessend) (VERB schaltete) (PRON er) (NP (DET den) (NOUN Rasenmäher)) (ADP an)) (VP (ADP um) (VERB festzustellen)) (S (SCONJ dass) (PRON er) (ADV nun) (ADV wieder) (ADJ tadellos) (VERB funktionierte))))
+
+Constituency Tree of the Sentence 72:
+[72] (ROOT (VROOT (PUNCT „) (NOUN Danke) (PUNCT “) (S (VERB murmelte) (PROPN Marlene) (ADJ verschämt))))
+
+Constituency Tree of the Sentence 73:
+[73] (ROOT (VROOT (PUNCT „) (NP (DET Keine) (NOUN Ursache)) (PUNCT “) (CS (S (VERB sagte) (NP (DET der) (NOUN Bärtige))) (CCONJ und) (S (VERB reichte) (PRON ihr) (NP (DET die) (NOUN Garten))))))
+
+Constituency Tree of the Sentence 74:
+[74] (ROOT (VROOT (PUNCT „) (PN (PROPN Theo) (PROPN Förster)) (PUNCT “)))
+
+Constituency Tree of the Sentence 75:
+[75] (ROOT (VROOT (CS (S (PROPN Marlene) (VERB erwiderte) (NP (DET den) (NOUN Handschlag))) (CCONJ und) (S (VERB stellte) (PRON sich) (ADV ebenfalls) (ADP vor))) (PUNCT „) (PP (PN (PROPN Marlene) (PROPN Schmidt))) (PUNCT “)))
+
+Constituency Tree of the Sentence 76:
+[76] (ROOT (VROOT (S (PRON Sie) (VERB deutete) (PP (ADP auf) (DET die) (NOUN Wiese)))))
+
+Constituency Tree of the Sentence 77:
+[77] (ROOT (VROOT (PUNCT „) (S (ADV Wie) (VERB krieg) (PRON ich) (NP (DET den) (NOUN Rasen)) (ADV denn) (AP (AVP (ADV so)) (ADJ kurz))) (S (SCONJ dass) (PRON ich) (VERB mähen) (AUX kann)) (PUNCT “)))
+
 
