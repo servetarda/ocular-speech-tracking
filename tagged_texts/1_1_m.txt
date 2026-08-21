@@ -1,111 +1,111 @@
+Sentence 1:
+[1] (ROOT (VROOT (S (NP (DET Die) (NOUN Nachricht)) (VERB kam) (AP (ADJ völlig) (ADJ überraschend))) (PUNCT .)))
+
 Sentence 2:
-[2] (ROOT (VROOT (S (NP (DET Die) (NOUN Nachricht)) (VERB kam) (AP (ADJ völlig) (ADJ überraschend))) (PUNCT .)))
+[2] (ROOT (VROOT (S (PROPN Marlene) (AUX sollte) (VP (VP (PP (ADP in) (DET den) (NOUN Vorruhestand)) (VERB geschickt)) (AUX werden))) (PUNCT ,) (SCONJ weil) (DET die) (NOUN Versicherungsagentur) (PUNCT ,) (NP (S (PP (ADP bei) (PRON der)) (PRON sie) (VP (ADJ beschäftigt)) (AUX war))) (PUNCT ,) (S (CVP (VP (NP (DET ihren) (NOUN Standort) (PP (ADP in) (PROPN Dortmund))) (VERB aufgeben)) (CCONJ und) (VP (PP (ADP über) (NUM hundert) (NOUN Arbeitsplätze)) (VERB abbauen))) (AUX würde)) (PUNCT .)))
 
 Sentence 3:
-[3] (ROOT (VROOT (S (PROPN Marlene) (AUX sollte) (VP (VP (PP (ADP in) (DET den) (NOUN Vorruhestand)) (VERB geschickt)) (AUX werden))) (PUNCT ,) (SCONJ weil) (DET die) (NOUN Versicherungsagentur) (PUNCT ,) (NP (S (PP (ADP bei) (PRON der)) (PRON sie) (VP (ADJ beschäftigt)) (AUX war))) (PUNCT ,) (S (CVP (VP (NP (DET ihren) (NOUN Standort) (PP (ADP in) (PROPN Dortmund))) (VERB aufgeben)) (CCONJ und) (VP (PP (ADP über) (NUM hundert) (NOUN Arbeitsplätze)) (VERB abbauen))) (AUX würde)) (PUNCT .)))
+[3] (ROOT (VROOT (CS (S (ADV Eigentlich) (AUX hätte) (PRON sie) (VP (VP (ADJ froh) (AUX sein)) (AUX sollen)))) (PUNCT ,) (SCONJ denn) (S (NP (DET die) (NOUN Arbeit)) (VERB fiel) (PRON ihr) (PP (ADP in) (ADJ letzter) (NOUN Zeit)) (AP (ADV immer) (ADJ schwerer))) (PUNCT .)))
 
 Sentence 4:
-[4] (ROOT (VROOT (CS (S (ADV Eigentlich) (AUX hätte) (PRON sie) (VP (VP (ADJ froh) (AUX sein)) (AUX sollen)))) (PUNCT ,) (SCONJ denn) (S (NP (DET die) (NOUN Arbeit)) (VERB fiel) (PRON ihr) (PP (ADP in) (ADJ letzter) (NOUN Zeit)) (AP (ADV immer) (ADJ schwerer))) (PUNCT .)))
+[4] (ROOT (VROOT (CS (CS (S (NP (DET Jeden) (NOUN Tag)) (VERB kam) (PRON sie) (ADV spätnachmittags) (ADJ total) (ADJ gestresst)) (CCONJ und) (S (NOUN todmüde) (PP (ADP nach) (NOUN Hause)))) (CCONJ und) (S (AUX war) (ADV meist) (AVP (ADV nur) (ADV noch)) (ADP in) (DET der) (NOUN Lage))) (PUNCT ,) (PP (CVP (VP (NP (DET ein) (NOUN Bad)) (VZ (PART zu) (VERB nehmen))) (CCONJ und) (VP (NP (DET den) (NOUN Abend)) (PP (ADP vor) (DET dem) (NOUN Fernseher)) (VZ (PART zu) (VERB verbringen))))) (PUNCT .)))
 
 Sentence 5:
-[5] (ROOT (VROOT (CS (CS (S (NP (DET Jeden) (NOUN Tag)) (VERB kam) (PRON sie) (ADV spätnachmittags) (ADJ total) (ADJ gestresst)) (CCONJ und) (S (NOUN todmüde) (PP (ADP nach) (NOUN Hause)))) (CCONJ und) (S (AUX war) (ADV meist) (AVP (ADV nur) (ADV noch)) (ADP in) (DET der) (NOUN Lage))) (PUNCT ,) (PP (CVP (VP (NP (DET ein) (NOUN Bad)) (VZ (PART zu) (VERB nehmen))) (CCONJ und) (VP (NP (DET den) (NOUN Abend)) (PP (ADP vor) (DET dem) (NOUN Fernseher)) (VZ (PART zu) (VERB verbringen))))) (PUNCT .)))
+[5] (ROOT (VROOT (S (AP (ADV Äusserst) (ADJ selten)) (VERB gelang) (NP (PRON es)) (NP (DET ihrer) (NOUN Freundin) (PROPN Vera))) (PUNCT ,) (VP (PRON sie) (VZ (PART zu) (VERB überreden))) (PUNCT ,) (VP (PP (ADP mit) (PRON ihr)) (PP (ADP in) (DET das) (NOUN Kino)) (VZ (PART zu) (VERB gehen))) (PUNCT ,) (CPP (PP (ADP zu) (DET dem) (NOUN Italiener)) (CCONJ oder) (PP (ADP zu) (DET einer) (DET dieser) (NOUN Unkraut))) (PUNCT .)))
 
 Sentence 6:
-[6] (ROOT (VROOT (S (AP (ADV Äusserst) (ADJ selten)) (VERB gelang) (NP (PRON es)) (NP (DET ihrer) (NOUN Freundin) (PROPN Vera))) (PUNCT ,) (VP (PRON sie) (VZ (PART zu) (VERB überreden))) (PUNCT ,) (VP (PP (ADP mit) (PRON ihr)) (PP (ADP in) (DET das) (NOUN Kino)) (VZ (PART zu) (VERB gehen))) (PUNCT ,) (CPP (PP (ADP zu) (DET dem) (NOUN Italiener)) (CCONJ oder) (PP (ADP zu) (DET einer) (DET dieser) (NOUN Unkraut))) (PUNCT .)))
+[6] (ROOT (VROOT (S (ADV Andererseits) (AUX war) (PROPN Marlene) (ADV erst) (CAP (CAP (NUM sechs) (CCONJ und) (NUM fünfzig)) (CCONJ und) (ADJ kerngesund))) (PUNCT .)))
 
 Sentence 7:
-[7] (ROOT (VROOT (S (ADV Andererseits) (AUX war) (PROPN Marlene) (ADV erst) (CAP (CAP (NUM sechs) (CCONJ und) (NUM fünfzig)) (CCONJ und) (ADJ kerngesund))) (PUNCT .)))
+[7] (ROOT (VROOT (CS (S (PRON Sie) (VERB gehörte) (AVP (ADV noch) (ADV lange)) (PART nicht) (PP (ADP zu) (DET dem) (ADJ alten) (NOUN Eisen))) (CCONJ und) (S (VERB brauchte) (NOUN Anlage))) (PUNCT .)))
 
 Sentence 8:
-[8] (ROOT (VROOT (CS (S (PRON Sie) (VERB gehörte) (AVP (ADV noch) (ADV lange)) (PART nicht) (PP (ADP zu) (DET dem) (ADJ alten) (NOUN Eisen))) (CCONJ und) (S (VERB brauchte) (NOUN Anlage))) (PUNCT .)))
+[8] (ROOT (VROOT (CS (S (ADV Also) (VERB meldete) (PRON sie) (PRON sich) (PP (ADP in) (DET einem) (NOUN Fitnessstudio)) (ADP an))) (PUNCT ,) (S (VERB merkte) (ADV aber) (ADJ schnell)) (PUNCT ,) (S (SCONJ dass) (PRON das) (PART nicht) (NP (DET das) (NOUN Richtige) (PP (ADP für) (PRON sie))) (AUX war)) (PUNCT .)))
 
 Sentence 9:
-[9] (ROOT (VROOT (CS (S (ADV Also) (VERB meldete) (PRON sie) (PRON sich) (PP (ADP in) (DET einem) (NOUN Fitnessstudio)) (ADP an))) (PUNCT ,) (S (VERB merkte) (ADV aber) (ADJ schnell)) (PUNCT ,) (S (SCONJ dass) (PRON das) (PART nicht) (NP (DET das) (NOUN Richtige) (PP (ADP für) (PRON sie))) (AUX war)) (PUNCT .)))
+[9] (ROOT (VROOT (S (PP (ADP Unter) (DET all) (DET den) (ADJ jungen) (NOUN Frauen) (PP (ADP mit) (CNP (NP (DET ihren) (NOUN Topmodelfiguren)) (CCONJ und) (NP (DET den) (NOUN Muskelmännern))))) (VERB kam) (PRON sie) (PRON sich) (ADV einfach) (ADV fehl) (PP (ADP an) (DET dem) (NOUN Platz)) (ADP vor)) (PUNCT .)))
 
 Sentence 10:
-[10] (ROOT (VROOT (S (PP (ADP Unter) (DET all) (DET den) (ADJ jungen) (NOUN Frauen) (PP (ADP mit) (CNP (NP (DET ihren) (NOUN Topmodelfiguren)) (CCONJ und) (NP (DET den) (NOUN Muskelmännern))))) (VERB kam) (PRON sie) (PRON sich) (ADV einfach) (ADV fehl) (PP (ADP an) (DET dem) (NOUN Platz)) (ADP vor)) (PUNCT .)))
+[10] (ROOT (VROOT (CS (S (PP (ADP Bei) (DET der) (NOUN Volkshochschule)) (VERB belegte) (PROPN Marlene) (NP (DET einen) (NOUN Literaturkurs))) (CCONJ und) (S (VERB ging) (ADV auch) (ADJ regelmässig) (PP (ADP zu) (NOUN Paradies)))) (PUNCT .)))
 
 Sentence 11:
-[11] (ROOT (VROOT (CS (S (PP (ADP Bei) (DET der) (NOUN Volkshochschule)) (VERB belegte) (PROPN Marlene) (NP (DET einen) (NOUN Literaturkurs))) (CCONJ und) (S (VERB ging) (ADV auch) (ADJ regelmässig) (PP (ADP zu) (NOUN Paradies)))) (PUNCT .)))
+[11] (ROOT (VROOT (S (PRON Sie) (VERB las) (PP (ADP für) (DET ihr) (NOUN Leben)) (ADV gern)) (PUNCT .)))
 
 Sentence 12:
-[12] (ROOT (VROOT (S (PRON Sie) (VERB las) (PP (ADP für) (DET ihr) (NOUN Leben)) (ADV gern)) (PUNCT .)))
+[12] (ROOT (VROOT (S (AVP (ADV Schon) (ADV lange)) (VERB dachte) (PRON sie) (PP (ADV darüber)) (ADP nach)) (PUNCT ,) (VP (ADV selbst) (NP (DET ein) (NOUN Buch)) (VZ (PART zu) (VERB schreiben))) (PUNCT .)))
 
 Sentence 13:
-[13] (ROOT (VROOT (S (AVP (ADV Schon) (ADV lange)) (VERB dachte) (PRON sie) (PP (ADV darüber)) (ADP nach)) (PUNCT ,) (VP (ADV selbst) (NP (DET ein) (NOUN Buch)) (VZ (PART zu) (VERB schreiben))) (PUNCT .)))
+[13] (ROOT (VROOT (S (ADV Jetzt) (AUX war) (ADV dafür) (NP (NOUN Zeit) (ADV genug))) (PUNCT .)))
 
 Sentence 14:
-[14] (ROOT (VROOT (S (ADV Jetzt) (AUX war) (ADV dafür) (NP (NOUN Zeit) (ADV genug))) (PUNCT .)))
+[14] (ROOT (VROOT (S (ADV Zunächst) (VERB versuchte) (PRON sie) (PRON sich) (PP (ADV darin))) (PUNCT ,) (VP (NOUN Kurzgeschichten) (VZ (PART zu) (VERB verfassen))) (PUNCT .)))
 
 Sentence 15:
-[15] (ROOT (VROOT (S (ADV Zunächst) (VERB versuchte) (PRON sie) (PRON sich) (PP (ADV darin))) (PUNCT ,) (VP (NOUN Kurzgeschichten) (VZ (PART zu) (VERB verfassen))) (PUNCT .)))
+[15] (ROOT (VROOT (S (CCONJ Aber) (PRON das) (AUX war) (PART nicht) (ADJ tagesfüllend)) (PUNCT .)))
 
 Sentence 16:
-[16] (ROOT (VROOT (S (CCONJ Aber) (PRON das) (AUX war) (PART nicht) (ADJ tagesfüllend)) (PUNCT .)))
+[16] (ROOT (VROOT (CS (S (PROPN Marlene) (VERB fühlte) (PRON sich) (PART nicht) (ADJ ausgelastet)) (CCONJ und) (S (VERB litt) (PP (ADP unter) (NOUN Zeitung)))) (PUNCT .)))
 
 Sentence 17:
-[17] (ROOT (VROOT (CS (S (PROPN Marlene) (VERB fühlte) (PRON sich) (PART nicht) (ADJ ausgelastet)) (CCONJ und) (S (VERB litt) (PP (ADP unter) (NOUN Zeitung)))) (PUNCT .)))
+[17] (ROOT (VROOT (S (PP (ADP Zu) (DET dem) (ADJ reinen) (NOUN Zeitvertreib)) (VERB studierte) (PRON sie) (ADJ täglich) (ADJ intensiv) (NP (DET den) (ADJ kompletten) (NOUN Anzeigenteil) (NP (DET ihrer) (NOUN Zeitung)))) (PUNCT .)))
 
 Sentence 18:
-[18] (ROOT (VROOT (S (PP (ADP Zu) (DET dem) (ADJ reinen) (NOUN Zeitvertreib)) (VERB studierte) (PRON sie) (ADJ täglich) (ADJ intensiv) (NP (DET den) (ADJ kompletten) (NOUN Anzeigenteil) (NP (DET ihrer) (NOUN Zeitung)))) (PUNCT .)))
+[18] (ROOT (VROOT (CS (S (ADV Vielleicht) (AUX sollte) (PRON ich) (VP (PP (ADP auf) (DET eine) (NOUN Kontaktanzeige)) (VERB antworten)))) (PUNCT ,) (S (VERB überlegte) (PRON sie)) (PUNCT ,) (S (VERB rief) (PRON sich) (ADV dann) (ADV aber) (PP (ADP in) (NOUN Erinnerung))) (PUNCT ,) (S (SCONJ dass) (PRON sie) (VP (PRON sich) (PP (ADP nach) (DET ihrer) (NOUN Trennung) (PP (ADP von) (PROPN Klaus))) (VERB geschworen)) (AUX hatte)) (PUNCT ,) (VP (AVP (ADV nie) (ADV wieder)) (NP (DET ihr) (NOUN Herz)) (PP (ADP an) (DET einen) (NOUN Mann)) (VZ (PART zu) (VERB verlieren))) (PUNCT .)))
 
 Sentence 19:
-[19] (ROOT (VROOT (CS (S (ADV Vielleicht) (AUX sollte) (PRON ich) (VP (PP (ADP auf) (DET eine) (NOUN Kontaktanzeige)) (VERB antworten)))) (PUNCT ,) (S (VERB überlegte) (PRON sie)) (PUNCT ,) (S (VERB rief) (PRON sich) (ADV dann) (ADV aber) (PP (ADP in) (NOUN Erinnerung))) (PUNCT ,) (S (SCONJ dass) (PRON sie) (VP (PRON sich) (PP (ADP nach) (DET ihrer) (NOUN Trennung) (PP (ADP von) (PROPN Klaus))) (VERB geschworen)) (AUX hatte)) (PUNCT ,) (VP (AVP (ADV nie) (ADV wieder)) (NP (DET ihr) (NOUN Herz)) (PP (ADP an) (DET einen) (NOUN Mann)) (VZ (PART zu) (VERB verlieren))) (PUNCT .)))
+[19] (ROOT (VROOT (S (NP (DET Der) (NOUN Schmerz)) (VERB sass) (AVP (ADV immer) (ADV noch)) (ADJ tief)) (PUNCT .)))
 
 Sentence 20:
-[20] (ROOT (VROOT (S (NP (DET Der) (NOUN Schmerz)) (VERB sass) (AVP (ADV immer) (ADV noch)) (ADJ tief)) (PUNCT .)))
+[20] (ROOT (VROOT (S (CCONJ Und) (ADV dann) (VERB stach) (PRON ihr) (NP (DET dieses) (NOUN Inserat)) (ADP in) (DET das) (NOUN Auge)) (PUNCT :) (PP (VP (NOUN Kleingarten) (VZ (PART zu) (VERB verpachten)))) (PUNCT .)))
 
 Sentence 21:
-[21] (ROOT (VROOT (S (CCONJ Und) (ADV dann) (VERB stach) (PRON ihr) (NP (DET dieses) (NOUN Inserat)) (ADP in) (DET das) (NOUN Auge)) (PUNCT :) (PP (VP (NOUN Kleingarten) (VZ (PART zu) (VERB verpachten)))) (PUNCT .)))
+[21] (ROOT (VROOT (NP (NUM Zweihundert) (NOUN quadratmeter) (CNP (NOUN Grundstück))) (PUNCT ,) (NOUN Laube) (PUNCT ,) (NOUN Geräteschuppen) (PUNCT ,) (NOUN Wasser) (CCONJ und) (NOUN Stromanschluss) (ADJ vorhanden) (PUNCT .)))
 
 Sentence 22:
-[22] (ROOT (VROOT (NP (NUM Zweihundert) (NOUN quadratmeter) (CNP (NOUN Grundstück))) (PUNCT ,) (NOUN Laube) (PUNCT ,) (NOUN Geräteschuppen) (PUNCT ,) (NOUN Wasser) (CCONJ und) (NOUN Stromanschluss) (ADJ vorhanden) (PUNCT .)))
+[22] (ROOT (VROOT (S (PRON Das) (AUX ist) (PRON es)) (PUNCT !)))
 
 Sentence 23:
-[23] (ROOT (VROOT (S (PRON Das) (AUX ist) (PRON es)) (PUNCT !)))
+[23] (ROOT (VROOT (S (SCONJ Dass) (PRON ich) (VP (ADV da) (PART nicht) (AP (ADV schon) (ADJ früher)) (ADV drauf) (VERB gekommen)) (AUX bin)) (PUNCT ,) (S (VERB dachte) (PROPN Marlene)) (PUNCT .)))
 
 Sentence 24:
-[24] (ROOT (VROOT (S (SCONJ Dass) (PRON ich) (VP (ADV da) (PART nicht) (AP (ADV schon) (ADJ früher)) (ADV drauf) (VERB gekommen)) (AUX bin)) (PUNCT ,) (S (VERB dachte) (PROPN Marlene)) (PUNCT .)))
+[24] (ROOT (VROOT (S (NP (ADV So) (DET ein) (NOUN Schrebergarten)) (AUX ist) (NP (ADV genau) (DET das) (NOUN Richtige) (PP (ADP für) (PRON mich)))) (PUNCT .)))
 
 Sentence 25:
-[25] (ROOT (VROOT (S (NP (ADV So) (DET ein) (NOUN Schrebergarten)) (AUX ist) (NP (ADV genau) (DET das) (NOUN Richtige) (PP (ADP für) (PRON mich)))) (PUNCT .)))
+[25] (ROOT (VROOT (S (PRON Ich) (AUX könnte) (CVP (VP (NP (DET mein) (ADJ eigenes) (NOUN Bio)) (NOUN gemüse) (VERB anbauen)))) (PUNCT ,) (VP (PP (ADP in) (DET dem)) (NOUN Liegestuhl) (VERB entspannen)) (CCONJ und) (VERB lesen) (CCONJ oder) (VP (PP (ADP an) (DET meinem) (NOUN Buch)) (VERB schreiben)) (PUNCT ,) (S (NP (DET die) (NOUN Sonne)) (VERB geniessen)) (PUNCT ...)))
 
 Sentence 26:
-[26] (ROOT (VROOT (S (PRON Ich) (AUX könnte) (CVP (VP (NP (DET mein) (ADJ eigenes) (NOUN Bio)) (NOUN gemüse) (VERB anbauen)))) (PUNCT ,) (VP (PP (ADP in) (DET dem)) (NOUN Liegestuhl) (VERB entspannen)) (CCONJ und) (VERB lesen) (CCONJ oder) (VP (PP (ADP an) (DET meinem) (NOUN Buch)) (VERB schreiben)) (PUNCT ,) (S (NP (DET die) (NOUN Sonne)) (VERB geniessen)) (PUNCT ...)))
+[26] (ROOT (VROOT (CS (S (AP (ADJ Kurz) (ADJ entschlossen)) (VERB griff) (PRON sie) (PP (ADP zu) (DET dem) (NOUN Telefon))) (CCONJ und) (S (VERB vereinbarte) (NP (DET einen) (NOUN Anstrichs)))) (PUNCT .)))
 
 Sentence 27:
-[27] (ROOT (VROOT (CS (S (AP (ADJ Kurz) (ADJ entschlossen)) (VERB griff) (PRON sie) (PP (ADP zu) (DET dem) (NOUN Telefon))) (CCONJ und) (S (VERB vereinbarte) (NP (DET einen) (NOUN Anstrichs)))) (PUNCT .)))
+[27] (ROOT (VROOT (CS (S (NP (DET Die) (NOUN Parzelle)) (VERB befand) (PRON sich) (PP (ADP in) (DET einer) (NOUN Schrebergartenanlage) (PP (ADP an) (DET dem) (NOUN Stadtrand)))) (CCONJ und) (S (VERB sah) (AP (ADJ extrem) (ADJ verwildert)) (ADP aus))) (PUNCT .)))
 
 Sentence 28:
-[28] (ROOT (VROOT (CS (S (NP (DET Die) (NOUN Parzelle)) (VERB befand) (PRON sich) (PP (ADP in) (DET einer) (NOUN Schrebergartenanlage) (PP (ADP an) (DET dem) (NOUN Stadtrand)))) (CCONJ und) (S (VERB sah) (AP (ADJ extrem) (ADJ verwildert)) (ADP aus))) (PUNCT .)))
+[28] (ROOT (VROOT (S (ADV Überall) (VERB wucherte) (NOUN Unkraut)) (PUNCT .)))
 
 Sentence 29:
-[29] (ROOT (VROOT (S (ADV Überall) (VERB wucherte) (NOUN Unkraut)) (PUNCT .)))
+[29] (ROOT (VROOT (CS (S (NP (DET Der) (NOUN Rasen)) (AUX war) (ADJ kniehoch)) (CCONJ und) (S (NP (DET die) (NOUN Ligusterhecke)) (AUX hätte) (VP (VP (VP (AVP (ADV schon) (ADV längst)) (VERB geschnitten)) (AUX werden)) (AUX müssen)))) (PUNCT .)))
 
 Sentence 30:
-[30] (ROOT (VROOT (CS (S (NP (DET Der) (NOUN Rasen)) (AUX war) (ADJ kniehoch)) (CCONJ und) (S (NP (DET die) (NOUN Ligusterhecke)) (AUX hätte) (VP (VP (VP (AVP (ADV schon) (ADV längst)) (VERB geschnitten)) (AUX werden)) (AUX müssen)))) (PUNCT .)))
+[30] (ROOT (VROOT (S (NP (DET Die) (NOUN Laube)) (VERB bedurfte) (ADJ dringend) (NP (DET eines) (ADJ neuen) (NOUN Anstrichs))) (PUNCT .)))
 
 Sentence 31:
-[31] (ROOT (VROOT (S (NP (DET Die) (NOUN Laube)) (VERB bedurfte) (ADJ dringend) (NP (DET eines) (ADJ neuen) (NOUN Anstrichs))) (PUNCT .)))
+[31] (ROOT (VROOT (CS (S (NP (DET Die) (NOUN Nachbargärten)) (AUX waren) (VP (ADV allesamt) (ADJ top) (ADJ gepflegt)))) (PUNCT ,) (S (NP (DET dieser) (ADV jedoch)) (VERB passte) (ADV so) (AVP (ADV gar) (PART nicht)) (PP (ADP in) (DET die) (NOUN Anlage))) (PUNCT .)))
 
 Sentence 32:
-[32] (ROOT (VROOT (CS (S (NP (DET Die) (NOUN Nachbargärten)) (AUX waren) (VP (ADV allesamt) (ADJ top) (ADJ gepflegt)))) (PUNCT ,) (S (NP (DET dieser) (ADV jedoch)) (VERB passte) (ADV so) (AVP (ADV gar) (PART nicht)) (PP (ADP in) (DET die) (NOUN Anlage))) (PUNCT .)))
+[32] (ROOT (VROOT (PUNCT „) (CS (S (NP (DET Die) (NOUN Vorbesitzer)) (AUX haben) (VP (PRON sich) (ADV hier) (AVP (ADV schon) (ADJ ewig)) (AVP (PART nicht) (ADV mehr)) (VP (VERB blicken)) (VERB lassen)))) (PUNCT ,) (S (ADV deshalb) (AUX wurde) (PRON ihnen) (NP (DET der) (NOUN Pachtvertrag)) (VP (VERB gekündigt))) (PUNCT “) (PUNCT ,) (S (VERB erklärte) (DET der) (NOUN Vorsitzende) (NP (DET des) (NOUN Vereins))) (PUNCT ,) (NP (S (PRON der) (VP (PP (ADP mit) (DET der) (NOUN Vermittlung)) (ADJ betraut)) (AUX war))) (PUNCT .)))
 
 Sentence 33:
-[33] (ROOT (VROOT (PUNCT „) (CS (S (NP (DET Die) (NOUN Vorbesitzer)) (AUX haben) (VP (PRON sich) (ADV hier) (AVP (ADV schon) (ADJ ewig)) (AVP (PART nicht) (ADV mehr)) (VP (VERB blicken)) (VERB lassen)))) (PUNCT ,) (S (ADV deshalb) (AUX wurde) (PRON ihnen) (NP (DET der) (NOUN Pachtvertrag)) (VP (VERB gekündigt))) (PUNCT “) (PUNCT ,) (S (VERB erklärte) (DET der) (NOUN Vorsitzende) (NP (DET des) (NOUN Vereins))) (PUNCT ,) (NP (S (PRON der) (VP (PP (ADP mit) (DET der) (NOUN Vermittlung)) (ADJ betraut)) (AUX war))) (PUNCT .)))
+[33] (ROOT (VROOT (PUNCT „) (S (ADV Wie) (PRON Sie) (VERB sehen)) (PUNCT ,) (S (AUX müssen) (PRON Sie) (ADV hier) (VP (NP (DET jede) (NOUN Menge) (NOUN Arbeit)) (VERB reinstecken))) (PUNCT .) (PUNCT “)))
 
 Sentence 34:
-[34] (ROOT (VROOT (PUNCT „) (S (ADV Wie) (PRON Sie) (VERB sehen)) (PUNCT ,) (S (AUX müssen) (PRON Sie) (ADV hier) (VP (NP (DET jede) (NOUN Menge) (NOUN Arbeit)) (VERB reinstecken))) (PUNCT .) (PUNCT “)))
+[34] (ROOT (VROOT (S (PRON Er) (VERB musterte) (PROPN Marlene) (ADJ kritisch)) (PUNCT .)))
 
 Sentence 35:
-[35] (ROOT (VROOT (S (PRON Er) (VERB musterte) (PROPN Marlene) (ADJ kritisch)) (PUNCT .)))
+[35] (ROOT (VROOT (CS (S (DET Diese) (VERB überlegte) (AVP (PART nicht) (ADV lange)))) (PUNCT ,) (SCONJ denn) (S (NP (DET der) (NOUN Preis)) (AUX war) (ADV wirklich) (AP (ADJ ausgesprochen) (ADJ niedrig))) (PUNCT ,) (CCONJ und) (S (ADV ausserdem) (VERB hatte) (PRON sie) (ADV ja) (NP (DET alle) (NOUN Zeit) (NP (DET der) (NOUN Welt)))) (PUNCT ,) (VP (ADP um) (PP (ADP aus) (DET dieser) (NOUN Wildwuchsparzelle)) (NP (DET eine) (NOUN Wellnessoase)) (VZ (PART zu) (VERB zaubern))) (PUNCT .)))
 
 Sentence 36:
-[36] (ROOT (VROOT (CS (S (DET Diese) (VERB überlegte) (AVP (PART nicht) (ADV lange)))) (PUNCT ,) (SCONJ denn) (S (NP (DET der) (NOUN Preis)) (AUX war) (ADV wirklich) (AP (ADJ ausgesprochen) (ADJ niedrig))) (PUNCT ,) (CCONJ und) (S (ADV ausserdem) (VERB hatte) (PRON sie) (ADV ja) (NP (DET alle) (NOUN Zeit) (NP (DET der) (NOUN Welt)))) (PUNCT ,) (VP (ADP um) (PP (ADP aus) (DET dieser) (NOUN Wildwuchsparzelle)) (NP (DET eine) (NOUN Wellnessoase)) (VZ (PART zu) (VERB zaubern))) (PUNCT .)))
+[36] (ROOT (VROOT (S (PRON Sie) (VERB sah) (NP (PRON es)) (ADV schon) (ADJ genau) (PP (ADP vor) (PRON sich))) (PUNCT ,) (NP (DET ihr) (ADJ kleines) (NOUN Paradies)) (PUNCT .)))
 
 Sentence 37:
-[37] (ROOT (VROOT (S (PRON Sie) (VERB sah) (NP (PRON es)) (ADV schon) (ADJ genau) (PP (ADP vor) (PRON sich))) (PUNCT ,) (NP (DET ihr) (ADJ kleines) (NOUN Paradies)) (PUNCT .)))
-
-Sentence 38:
-[38] (ROOT (VROOT (S (PRON Sie) (AUX würde) (CVP (VP (NP (DET eine) (NOUN Kräuterspirale)) (VERB bauen)) (CCONJ und) (VP (NOUN Rosen) (VERB züchten)))) (PUNCT .)))
+[37] (ROOT (VROOT (S (PRON Sie) (AUX würde) (CVP (VP (NP (DET eine) (NOUN Kräuterspirale)) (VERB bauen)) (CCONJ und) (VP (NOUN Rosen) (VERB züchten)))) (PUNCT .)))
 
