@@ -30,6 +30,8 @@ model = AutoModelForCausalLM.from_pretrained(model_name).to(device)
 # We use this to ensure the model's best  prediction performance as we are not training the model but using it.
 model.eval()
 
+german_text = "Ich bin ein Berliner"
+
 def extract_full_text_lexical_predictions(text, tokenizer, model, max_context_len=1024, min_overlap=700):
     """
     Iterates through an entire text word-by-word, computing contextual surprisal
@@ -176,7 +178,7 @@ def extract_full_text_lexical_predictions(text, tokenizer, model, max_context_le
                 candidate_predictions[decoded] = candidate_predictions.get(decoded, 0.0) + p
         # We are assigning clean strings to objects        
         results.append({
-            "word_index": word_idx,
+            "word_number": word_idx + 1,
             "word": word,
             "surprisal": surprisal,
             "entropy": entropy,
@@ -188,7 +190,6 @@ def extract_full_text_lexical_predictions(text, tokenizer, model, max_context_le
         
     return results
 
-german_text = "Hier steht dein gesamter deutscher Text, den die Probanden gehört haben."
 
 # We are using our previously defined function
 lexical_results = extract_full_text_lexical_predictions(
@@ -203,13 +204,13 @@ output_file = "output.txt"
 # Here we are drawing a clean table where we can see surprisal, entropy and probability
 with open(output_file, "w", encoding="utf-8") as f:
     # 
-    f.write(f"{'Index':<8} {'Word':<18} {'Surprisal (bits)':<20} {'Entropy':<18} {'Probability':<15}\n")
+    f.write(f"{'Nmbr':<6} {'Word':<18} {'Surprisal (bits)':<20} {'Entropy':<18} {'Probability':<15}\n")
     f.write("-" * 80 + "\n")
     
     # Write each word's metrics
     for item in lexical_results:
         f.write(
-            f"{item['word_index']:<6} "
+            f"{item['word_number']:<6} "
             f"{item['word']:<20} "
             f"{item['surprisal']:<18.4f} "
             f"{item['entropy']:<16.4f} "
